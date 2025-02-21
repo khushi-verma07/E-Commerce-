@@ -1,0 +1,1 @@
+This project focuses on creating a modern, user-friendly UI for a clothing e-commerce site. Features include intuitive navigation, product filters, high-quality images, and a seamless checkout process. The design prioritizes mobile responsiveness, clear categorization, and an engaging experience, making it easy to browse and purchase clothing.
